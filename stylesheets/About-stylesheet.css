@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a{
+    color: inherit;
+    text-decoration: inherit;
+}
+a:hover{
+    text-decoration: inherit;
+    color: inherit;
+}
+.navbar-brand{
+    font-family: Georgia;
+}
+.navbar{
+    background-color: rgb(35, 34, 34);
+    margin-bottom: 0;
+
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+}
+.navbar a:hover{
+    text-decoration: underline;
+    color: white;
+}
+
+.footer{
+    background-color: rgb(35, 34, 34);
+    margin: 0;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: block;
+}
+footer a{
+    color: inherit ;
+} 
+footer a:hover{
+    text-decoration: none;
+    color: wheat;
+}
